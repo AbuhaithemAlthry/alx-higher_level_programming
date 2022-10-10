@@ -27,7 +27,7 @@ This repository contains introductory projects for higher-level programming. Top
 and more!
 
 ## Requirements
-* Ubuntu 14.04 LTS
+* Ubuntu 20.04 LTS
 * Python 3.4
 * pip3 1.5
 * pep8 1.7
@@ -61,4 +61,4 @@ and more!
 21. [0x14-javascript-web_scraping](./0x14-javascript-web_scraping)
 
 ## Credits
-Work is owned and maintained by ([Seid Muhammed](https://twitter.com/Abu_Haithem_)).
+Work is owned and maintained by [Seid Muhammed](https://twitter.com/Abu_Haithem_).
