@@ -61,4 +61,4 @@ and more!
 21. [0x14-javascript-web_scraping](./0x14-javascript-web_scraping)
 
 ## Credits
-Work is owned and maintained by Seid Muhammed ([@Abu_Haithem_](https://twitter.com/Abu_Haithem_)).
+Work is owned and maintained by ([Seid Muhammed](https://twitter.com/Abu_Haithem_)).
